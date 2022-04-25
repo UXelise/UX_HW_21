@@ -1,0 +1,40 @@
+.navbar-brand{
+    color: #7B68EE;
+}
+.navbar{
+    background-color: #E6E6FA;
+}
+.nav-item{
+    color: black;
+}
+.nav-item:hover{
+    color: #7B68EE;
+}
+.btn-primary{
+    background-color: white;
+    color: #7B68EE;
+    border: 2px solid #7B68EE;
+    border-color: #7B68EE;
+    border-radius: 2;
+}
+.btn-primary:hover{
+    background-color: #7B68EE;
+    border: white;
+    color: white;
+}
+.jumbotron{
+    background-color: #7B68EE;
+    color: white;
+}
+footer ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;padding:30px; 
+}
+footer ul li a {
+    color:darkslategrey;
+    text-decoration:none;   
+}
+footer{
+    background-color: #E6E6FA;
+}
