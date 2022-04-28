@@ -3,12 +3,18 @@
 }
 .navbar{
     background-color: #E6E6FA;
+    position: sticky;
+    top: 0;
+    width: 100%;
 }
 .nav-item{
     color: black;
 }
 .nav-item:hover{
     color: #7B68EE;
+}
+.profile{
+    text-decoration: underline;
 }
 .btn-primary{
     background-color: white;
@@ -23,8 +29,18 @@
     color: white;
 }
 .jumbotron{
-    background-color: #7B68EE;
+    background-image: url("../UX_HW_21/images/vishal-banik-V6T99SnUCyA-unsplash.jpg");
     color: white;
+}
+.material-symbols-outlined{
+    outline: #7B68EE;
+    float: right;
+}
+.material-symbols-outlined:hover{
+    outline: black;
+}
+.material-symbols-outlined:focus{
+    background-color: #7B68EE;
 }
 footer ul {
     display: flex;
