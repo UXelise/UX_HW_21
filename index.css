@@ -3,13 +3,8 @@
 }
 .navbar{
     background-color: #E6E6FA;
-    position: sticky;
     top: 0;
     width: 100%;
-    justify-content: end !important;
-}
-.navbar-nav{
-    justify-content: end;
 }
 .nav-item{
     color: black;
